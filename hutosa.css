@@ -52,8 +52,8 @@ p{
 body {
   width: 100%;
   height: 100vh;
-  background:linear-gradient(45deg, #41bbf4,#cf9ae2,#93d2ef);/*グラデーションを定義*/
-  background-size: 200% 200%;/*サイズを大きくひきのばす*/
+  background:linear-gradient(45deg, #7fbad6,#cf9ae2,#93b3ef);/*グラデーションを定義*/
+  background-size: 200% 400%;/*サイズを大きくひきのばす*/
   animation: bggradient 20s ease infinite;
 }
 
